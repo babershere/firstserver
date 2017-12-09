@@ -1,0 +1,19 @@
+{
+  "name": "firstserver",
+  "version": "1.0.0",
+  "description": "in class server ports with good and bad messages",
+  "main": "act2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/babershere/firstserver.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/babershere/firstserver/issues"
+  },
+  "homepage": "https://github.com/babershere/firstserver#readme"
+}
